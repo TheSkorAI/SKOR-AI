@@ -10,7 +10,7 @@ These high-quality branding assets are provided for use in **press kits**, **par
 ### 🔹 Standard Logo
 
 <p align="center">
-  <img src="https://github.com/TheSkorAI/SKOR-AI/raw/main/AGENT%20HUNTER%20LOGO/Hunter%20Logo.png" alt="Hunter Logo" width="300" />
+  <img src="https://github.com/TheSkorAI/SKOR-AI/raw/main/AGENT%20HUNTER%20LOGO/Hunter%20Logo.png" alt="Hunter Standard Logo" width="300" />
   <br><br>
   <a href="https://github.com/TheSkorAI/SKOR-AI/raw/main/AGENT%20HUNTER%20LOGO/Hunter%20Logo.png">
     <img src="https://img.shields.io/badge/Download-Hunter%20Logo-007BFF?style=for-the-badge&logo=download" alt="Download Hunter Logo">
@@ -22,9 +22,9 @@ These high-quality branding assets are provided for use in **press kits**, **par
 ### 🔸 Vertical Logo
 
 <p align="center">
-  <img src="https://github.com/TheSkorAI/SKOR-AI/raw/main/AGENT%20HUNTER%20LOGO/Hunter%20-%20Vetical%20Logo.png" alt="Hunter Vertical Logo" width="300" />
+  <img src="https://github.com/TheSkorAI/SKOR-AI/raw/main/AGENT%20HUNTER%20LOGO/Hunter%20-%20Vertical%20Logo.png" alt="Hunter Vertical Logo" width="300" />
   <br><br>
-  <a href="https://github.com/TheSkorAI/SKOR-AI/raw/main/AGENT%20HUNTER%20LOGO/Hunter%20-%20Vetical%20Logo.png">
+  <a href="https://github.com/TheSkorAI/SKOR-AI/raw/main/AGENT%20HUNTER%20LOGO/Hunter%20-%20Vertical%20Logo.png">
     <img src="https://img.shields.io/badge/Download-Vertical%20Logo-007BFF?style=for-the-badge&logo=download" alt="Download Vertical Logo">
   </a>
 </p>
