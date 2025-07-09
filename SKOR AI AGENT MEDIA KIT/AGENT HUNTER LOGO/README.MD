@@ -1,31 +1,31 @@
 # 🎯 AGENT HUNTER — Logo Assets
 
-Welcome to the official **Agent Hunter** logo directory, part of the [SKOR AI Media Kit](https://github.com/TheSkorAI/SKOR-AI).  
-This repository contains high-quality branding resources for use by partners, collaborators, and the press.
+Welcome to the official **Agent Hunter** logo repository — part of the [SKOR AI Media Kit](https://github.com/TheSkorAI/SKOR-AI).  
+These high-quality branding assets are provided for use in **press kits**, **partnership materials**, and **authorized promotions**.
 
 ---
 
 ## 🖼️ Logo Previews & Downloads
 
-### 🧭 Standard Logo
+### 🔹 Standard Logo
 
 <p align="center">
-  <img src="https://github.com/TheSkorAI/SKOR-AI/raw/main/AGENT%20HUNTER%20LOGO/Hunter%20Logo.png" alt="Hunter Logo" width="250" />
-  <br>
+  <img src="https://github.com/TheSkorAI/SKOR-AI/raw/main/AGENT%20HUNTER%20LOGO/Hunter%20Logo.png" alt="Hunter Logo" width="300" />
+  <br><br>
   <a href="https://github.com/TheSkorAI/SKOR-AI/raw/main/AGENT%20HUNTER%20LOGO/Hunter%20Logo.png">
-    <img src="https://img.shields.io/badge/Download-Hunter%20Logo-blue?style=for-the-badge&logo=download" alt="Download Hunter Logo">
+    <img src="https://img.shields.io/badge/Download-Hunter%20Logo-007BFF?style=for-the-badge&logo=download" alt="Download Hunter Logo">
   </a>
 </p>
 
 ---
 
-### 🧭 Vertical Logo
+### 🔸 Vertical Logo
 
 <p align="center">
-  <img src="https://github.com/TheSkorAI/SKOR-AI/raw/main/AGENT%20HUNTER%20LOGO/Hunter%20-%20Vetical%20Logo.png" alt="Hunter Vertical Logo" width="250" />
-  <br>
+  <img src="https://github.com/TheSkorAI/SKOR-AI/raw/main/AGENT%20HUNTER%20LOGO/Hunter%20-%20Vetical%20Logo.png" alt="Hunter Vertical Logo" width="300" />
+  <br><br>
   <a href="https://github.com/TheSkorAI/SKOR-AI/raw/main/AGENT%20HUNTER%20LOGO/Hunter%20-%20Vetical%20Logo.png">
-    <img src="https://img.shields.io/badge/Download-Vertical%20Logo-blue?style=for-the-badge&logo=download" alt="Download Vertical Logo">
+    <img src="https://img.shields.io/badge/Download-Vertical%20Logo-007BFF?style=for-the-badge&logo=download" alt="Download Vertical Logo">
   </a>
 </p>
 
@@ -33,43 +33,44 @@ This repository contains high-quality branding resources for use by partners, co
 
 ## 📐 Usage Guidelines
 
-To maintain brand integrity and visual consistency, please follow these guidelines:
+To preserve brand consistency and visual quality, please adhere to the following rules:
 
-- ✅ Use only the official logo files provided.
-- ❌ Do **not** edit, stretch, distort, crop, or recolor the logos.
-- 🧊 Maintain sufficient **clear space** around the logo.
-- 🎨 Select the appropriate logo based on the background context.
+- ✅ Always use the official, unaltered versions.
+- ❌ Do **not** crop, recolor, distort, or overlay effects on the logos.
+- 🔲 Ensure ample clear space around the logos in all use cases.
+- 🎨 Select appropriate versions depending on background color and format.
 
-> ℹ️ For special use cases or alternate formats, please contact the SKOR AI team directly.
-
----
-
-## 📁 File Information
-
-| File Name                     | Description                  |
-|------------------------------|------------------------------|
-| `Hunter Logo.png`            | Standard Agent Hunter logo   |
-| `Hunter - Vertical Logo.png` | Stacked vertical version     |
-
-All files are provided in **PNG** format with transparent backgrounds.
+> For unique use cases or adaptations, contact the SKOR AI brand team directly.
 
 ---
 
-## 📝 License
+## 📁 File Details
 
-These branding assets are the property of **SKOR AI** and are protected by copyright.  
-Use is permitted only for official, authorized, or partnership-related purposes.
+| File Name                     | Description                      |
+|------------------------------|----------------------------------|
+| `Hunter Logo.png`            | Standard Agent Hunter logo       |
+| `Hunter - Vertical Logo.png` | Vertical version (portrait mode) |
 
-For more details, please refer to the [LICENSE](../../LICENSE) file.
+- Format: **PNG** with transparent backgrounds  
+- Ready for: Web, Presentation, Print
 
 ---
 
-## 📬 Contact
+## 📜 License & Permissions
 
-Need help or customized assets?
+These assets are the property of **SKOR AI** and are distributed for approved usage only.  
+They are intended for media, co-marketing, promotional material, and official representation.
+
+Please refer to the [LICENSE](../../LICENSE) file for terms of use.
+
+---
+
+## 📬 Contact Us
+
+For requests, questions, or additional formats:
 
 - 📧 Email: [press@skor.ai](mailto:press@skor.ai)  
-- 💬 GitHub: [TheSkorAI/SKOR-AI](https://github.com/TheSkorAI/SKOR-AI)
+- 💬 GitHub: [SKOR AI Repository](https://github.com/TheSkorAI/SKOR-AI)
 
 ---
 
@@ -86,4 +87,3 @@ Need help or customized assets?
 <p align="center">
   © SKOR AI. All rights reserved.
 </p>
-
