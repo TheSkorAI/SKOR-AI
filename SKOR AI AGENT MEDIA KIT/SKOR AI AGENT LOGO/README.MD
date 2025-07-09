@@ -1,14 +1,43 @@
 # 🧠 SKOR AI Agents — Logo Assets
 
-Welcome to the official logo repository for **SKOR AI Agents** — your go-to resource for high-quality brand assets. Whether you're a partner, member of the press, or content creator, this directory provides everything you need to represent SKOR AI visually and consistently.
+Welcome to the official logo repository for **SKOR AI Agents** — your go-to resource for high-quality brand assets.  
+Whether you're a partner, member of the press, or content creator, this directory provides everything you need to represent SKOR AI visually and consistently.
 
 ---
 
-## 🌟 Logo Preview
+## 🌟 Logo Previews
 
-| Primary Logo | On light Background | On Dark Background |
-|:------------:|:------------------:|:-------------------:|
-| ![Primary Logo](./SKOR%20AI%20Agents%20Logo%20(Primary).png) | ![Dark Logo](./SKOR%20AI%20Agents%20Logo-%20Dark.png) | ![White Logo](./SKOR%20AI%20Agents%20Logo-White.png) |
+<div align="center">
+
+<table>
+  <tr>
+    <th>Primary Logo</th>
+    <th>On Light Background</th>
+    <th>On Dark Background</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./SKOR%20AI%20Agents%20Logo%20(Primary).png" alt="Primary Logo" width="240"/><br><br>
+      <a href="./SKOR%20AI%20Agents%20Logo%20(Primary).png">
+        <img src="https://img.shields.io/badge/Download-Primary%20Logo-007BFF?style=for-the-badge&logo=download" alt="Download Primary Logo"/>
+      </a>
+    </td>
+    <td align="center">
+      <img src="./SKOR%20AI%20Agents%20Logo-%20Dark.png" alt="Dark Logo" width="240"/><br><br>
+      <a href="./SKOR%20AI%20Agents%20Logo-%20Dark.png">
+        <img src="https://img.shields.io/badge/Download-Dark%20Logo-007BFF?style=for-the-badge&logo=download" alt="Download Dark Logo"/>
+      </a>
+    </td>
+    <td align="center">
+      <img src="./SKOR%20AI%20Agents%20Logo-White.png" alt="White Logo" width="240"/><br><br>
+      <a href="./SKOR%20AI%20Agents%20Logo-White.png">
+        <img src="https://img.shields.io/badge/Download-White%20Logo-007BFF?style=for-the-badge&logo=download" alt="Download White Logo"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
@@ -38,11 +67,11 @@ For alternative formats (SVG, EPS, etc.), please contact the team.
 
 ## 📁 Folder Contents
 
-| File Name | Description |
-|-----------|-------------|
-| `SKOR AI Agents Logo (Primary).png` | Primary logo for general use |
-| `SKOR AI Agents Logo- Dark.png` | Optimized for dark backgrounds |
-| `SKOR AI Agents Logo-White.png` | Optimized for light or colored backgrounds |
+| File Name                          | Description                         |
+|-----------------------------------|-------------------------------------|
+| `SKOR AI Agents Logo (Primary).png` | Primary logo for general use        |
+| `SKOR AI Agents Logo- Dark.png`     | Optimized for dark backgrounds      |
+| `SKOR AI Agents Logo-White.png`     | Optimized for light or colored backgrounds |
 
 ---
 
@@ -60,4 +89,3 @@ Open an issue on [GitHub](https://github.com/TheSkorAI/SKOR-AI/issues) or reach 
 <p align="center">
   © SKOR AI. All rights reserved.
 </p>
-
