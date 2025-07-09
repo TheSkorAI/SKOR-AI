@@ -1,38 +1,70 @@
-# AGENT HUNTER LOGO
+# 🎯 AGENT HUNTER — Logo Assets
 
-Welcome to the official **Agent Hunter** logo assets for SKOR AI.  
-Below you’ll find high-quality branding resources and previews for use by partners, press, and collaborators.
-
----
-
-## Logo Previews
-
-### Hunter Logo
-
-![Hunter Logo](https://github.com/TheSkorAI/SKOR-AI/raw/main/AGENT%20HUNTER%20LOGO/Hunter%20Logo.png)
+Welcome to the official **Agent Hunter** logo directory, part of the [SKOR AI Media Kit](https://github.com/TheSkorAI/SKOR-AI).  
+This repository contains high-quality branding resources for use by partners, collaborators, and the press.
 
 ---
 
-### Hunter - Vertical Logo
+## 🖼️ Logo Previews
 
-![Hunter - Vertical Logo](https://github.com/TheSkorAI/SKOR-AI/raw/main/AGENT%20HUNTER%20LOGO/Hunter%20-%20Vetical%20Logo.png)
+| Standard Logo | Vertical Logo |
+|:-------------:|:-------------:|
+| ![Hunter Logo](https://github.com/TheSkorAI/SKOR-AI/raw/main/AGENT%20HUNTER%20LOGO/Hunter%20Logo.png) | ![Vertical Logo](https://github.com/TheSkorAI/SKOR-AI/raw/main/AGENT%20HUNTER%20LOGO/Hunter%20-%20Vetical%20Logo.png) |
 
 ---
 
-## Usage Guidelines
+## 📐 Usage Guidelines
 
-- Do **not** alter, distort, or recolor the logos.
-- Maintain clear space around the logo for visibility.
-- For special requirements, contact our team or open an issue.
+To maintain brand integrity and visual consistency, please follow these guidelines:
 
-## License
+- ✅ Use only the official logo files provided.
+- ❌ Do **not** edit, stretch, distort, crop, or recolor the logos.
+- 🧊 Maintain sufficient **clear space** around the logo.
+- 🎨 Select the appropriate logo based on the background context.
 
-These branding assets are property of **SKOR AI**.  
-Usage is permitted only for official or authorized purposes.  
-See the [LICENSE](../../LICENSE) file for more information.
+> ℹ️ For special use cases or alternate formats, please contact the SKOR AI team directly.
 
-## Contact
+---
 
-For questions or custom branding needs:  
-**Email:** [press@skor.ai](mailto:press@skor.ai)  
-**GitHub:** [TheSkorAI/SKOR-AI](https://github.com/TheSkorAI/SKOR-AI)
+## 📁 File Information
+
+| File Name | Description |
+|-----------|-------------|
+| `Hunter Logo.png` | Standard Agent Hunter logo |
+| `Hunter - Vertical Logo.png` | Stacked vertical logo version |
+
+All files are provided in PNG format with transparent backgrounds, suitable for both print and digital use.
+
+---
+
+## 📝 License
+
+These branding assets are the property of **SKOR AI** and are protected by copyright.  
+Use is permitted only for official, authorized, or partnership-related purposes.
+
+For more details, please refer to the [LICENSE](../../LICENSE) file.
+
+---
+
+## 📬 Contact
+
+Need help or customized assets?
+
+- 📧 Email: [press@skor.ai](mailto:press@skor.ai)  
+- 💬 GitHub: [TheSkorAI/SKOR-AI](https://github.com/TheSkorAI/SKOR-AI)
+
+---
+
+<p align="center">
+  <a href="https://github.com/TheSkorAI/SKOR-AI">
+    ← Back to SKOR AI Media Kit
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/TheSkorAI/SKOR-AI/raw/main/SKOR%20AI%20Agents%20Logo%20(Primary).png" alt="SKOR AI Logo" width="160" />
+</p>
+
+<p align="center">
+  © SKOR AI. All rights reserved.
+</p>
