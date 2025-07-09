@@ -46,3 +46,8 @@ SKOR AI AGENT MEDIA KIT/
 │   └── presentation-banner.png
 ├── brand-guidelines.pdf
 └── README.md   ← You are here!
+
+🤝 Attribution & Usage
+All assets are © SKOR AI.
+Use is permitted for press coverage, partnership announcements, and official collaborations.
+Commercial or third-party use outside these contexts is prohibited without written consent.
