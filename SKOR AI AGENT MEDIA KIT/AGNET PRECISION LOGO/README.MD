@@ -20,7 +20,7 @@ This folder includes:
 
 | Vertical Logo | Standard Logo |
 |:-------------:|:-------------:|
-| <img src="./Precision%20-%20Vertical%20Logo.png" alt="Vertical Logo" width="220"><br><a href="./Precision%20-%20Vertical%20Logo.png"><img src="https://img.shields.io/badge/Download-Vertical%20Logo-007BFF?style=for-the-badge&logo=download" alt="Download Vertical Logo"></a> | <img src="./Precision%20Logo.png" alt="Standard Logo" width="220"><br><a href="./Precision%20Logo.png"><img src="https://img.shields.io/badge/Download-Standard%20Logo-007BFF?style=for-the-badge&logo=download" alt="Download Standard Logo"></a> |
+| <img src="./Precision%20-%20Vertical%20Logo.png" alt="Vertical Logo" width="280"><br><a href="./Precision%20-%20Vertical%20Logo.png"><img src="https://img.shields.io/badge/Download-Vertical%20Logo-007BFF?style=for-the-badge&logo=download" alt="Download Vertical Logo"></a> | <img src="./Precision%20Logo.png" alt="Standard Logo" width="280"><br><a href="./Precision%20Logo.png"><img src="https://img.shields.io/badge/Download-Standard%20Logo-007BFF?style=for-the-badge&logo=download" alt="Download Standard Logo"></a> |
 
 ---
 
