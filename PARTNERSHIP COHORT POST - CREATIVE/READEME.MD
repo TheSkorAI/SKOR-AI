@@ -28,9 +28,7 @@ This folder includes:
 
 Explore real examples of our partnership cohort announcements on X:
 
-- 🔗 [Cohort Post 1]()  
-- 🔗 [Cohort Post 2]()  
-- 🔗 [Cohort Post 3]()  
+- 🔗 [Cohort Post LINK ](https://x.com/theskorai/status/1933082017799041133?t=S90bMt1zraNhMOlgPMwUSQ&s=19)  
 
 > *(Replace these links with live post URLs when available.)*
 
