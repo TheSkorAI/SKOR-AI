@@ -1,4 +1,3 @@
-
 # 🎯 AGENT PRECISION — Logo Assets
 
 Welcome to the official **AGENT PRECISION Logo** directory, a part of the [SKOR AI Media Kit](https://github.com/TheSkorAI/SKOR-AI).  
@@ -21,7 +20,7 @@ This folder includes:
 
 | Vertical Logo | Standard Logo |
 |:-------------:|:-------------:|
-| ![Vertical Logo](./Precision%20-%20Vetical%20Logo.png) | ![Standard Logo](./Precision%20Logo.png) |
+| <img src="./Precision%20-%20Vertical%20Logo.png" alt="Vertical Logo" width="220"><br><a href="./Precision%20-%20Vertical%20Logo.png"><img src="https://img.shields.io/badge/Download-Vertical%20Logo-007BFF?style=for-the-badge&logo=download" alt="Download Vertical Logo"></a> | <img src="./Precision%20Logo.png" alt="Standard Logo" width="220"><br><a href="./Precision%20Logo.png"><img src="https://img.shields.io/badge/Download-Standard%20Logo-007BFF?style=for-the-badge&logo=download" alt="Download Standard Logo"></a> |
 
 ---
 
