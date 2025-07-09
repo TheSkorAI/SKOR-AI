@@ -30,8 +30,6 @@ Explore real examples of our partnership cohort announcements on X:
 
 - 🔗 [Cohort Post LINK ](https://x.com/theskorai/status/1933082017799041133?t=S90bMt1zraNhMOlgPMwUSQ&s=19)  
 
-> *(Replace these links with live post URLs when available.)*
-
 ---
 
 ## 📎 Usage Guidelines
