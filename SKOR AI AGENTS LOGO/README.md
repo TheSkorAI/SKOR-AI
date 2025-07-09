@@ -6,7 +6,7 @@ Welcome to the official logo repository for **SKOR AI Agents** — your go-to re
 
 ## 🌟 Logo Preview
 
-| Primary Logo | On Dark Background | On Light Background |
+| Primary Logo | On light Background | On Dark Background |
 |:------------:|:------------------:|:-------------------:|
 | ![Primary Logo](./SKOR%20AI%20Agents%20Logo%20(Primary).png) | ![Dark Logo](./SKOR%20AI%20Agents%20Logo-%20Dark.png) | ![White Logo](./SKOR%20AI%20Agents%20Logo-White.png) |
 
