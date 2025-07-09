@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://agent-precision.gitbook.io/skor-ai/~gitbook/image?url=https%3A%2F%2F3376738995-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F9OhG1WgGMNxfZ9lLg3cQ%252Fuploads%252FCuSWXZiBJRViaMoKmGeP%252Fpublic%2520%281%29.jpg%3Falt%3Dmedia%26token%3Df61ed7e8-6784-4a01-89c7-7ed445f348f2&width=768&dpr=1&quality=100&sign=94a88286&sv=2" width="300" alt="SKOR AI Logo"/>
+</p>
+
 # SKOR AI – Official Media Kit
 
 Welcome to the official media kit repository for **SKOR AI** — your go-to source for high-quality brand assets, product visuals, and essential company information.
