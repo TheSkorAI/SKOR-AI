@@ -16,16 +16,22 @@ These high-quality branding assets are provided for use in **press kits**, **par
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/TheSkorAI/SKOR-AI/blob/main/SKOR%20AI%20AGENT%20MEDIA%20KIT/AGENT%20HUNTER%20LOGO/Hunter%20Logo.png?raw=true" alt="Hunter Standard Logo" width="360"/><br><br>
-      <a href="https://github.com/TheSkorAI/SKOR-AI/blob/main/SKOR%20AI%20AGENT%20MEDIA%20KIT/AGENT%20HUNTER%20LOGO/Hunter%20Logo.png?raw=true">
-        <img src="https://img.shields.io/badge/Download-Standard%20Logo-007BFF?style=for-the-badge&logo=download" alt="Download Standard Logo"/>
-      </a>
+      <div>
+        <img src="https://github.com/TheSkorAI/SKOR-AI/blob/main/SKOR%20AI%20AGENT%20MEDIA%20KIT/AGENT%20HUNTER%20LOGO/Hunter%20Logo.png?raw=true" alt="Hunter Standard Logo" width="360" />
+        <br><br>
+        <a href="https://github.com/TheSkorAI/SKOR-AI/blob/main/SKOR%20AI%20AGENT%20MEDIA%20KIT/AGENT%20HUNTER%20LOGO/Hunter%20Logo.png?raw=true">
+          <img src="https://img.shields.io/badge/Download-Standard%20Logo-007BFF?style=for-the-badge&logo=download" alt="Download Standard Logo" />
+        </a>
+      </div>
     </td>
     <td align="center">
-      <img src="https://github.com/TheSkorAI/SKOR-AI/blob/main/SKOR%20AI%20AGENT%20MEDIA%20KIT/AGENT%20HUNTER%20LOGO/Hunter%20-%20Vetical%20Logo.png?raw=true" alt="Hunter Vertical Logo" width="360"/><br><br>
-      <a href="https://github.com/TheSkorAI/SKOR-AI/blob/main/SKOR%20AI%20AGENT%20MEDIA%20KIT/AGENT%20HUNTER%20LOGO/Hunter%20-%20Vetical%20Logo.png?raw=true">
-        <img src="https://img.shields.io/badge/Download-Vertical%20Logo-007BFF?style=for-the-badge&logo=download" alt="Download Vertical Logo"/>
-      </a>
+      <div>
+        <img src="https://github.com/TheSkorAI/SKOR-AI/blob/main/SKOR%20AI%20AGENT%20MEDIA%20KIT/AGENT%20HUNTER%20LOGO/Hunter%20-%20Vetical%20Logo.png?raw=true" alt="Hunter Vertical Logo" width="360" />
+        <br><br>
+        <a href="https://github.com/TheSkorAI/SKOR-AI/blob/main/SKOR%20AI%20AGENT%20MEDIA%20KIT/AGENT%20HUNTER%20LOGO/Hunter%20-%20Vetical%20Logo.png?raw=true">
+          <img src="https://img.shields.io/badge/Download-Vertical%20Logo-007BFF?style=for-the-badge&logo=download" alt="Download Vertical Logo" />
+        </a>
+      </div>
     </td>
   </tr>
 </table>
