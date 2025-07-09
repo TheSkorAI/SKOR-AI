@@ -15,7 +15,7 @@ Below are the official logos for SKOR AI. You may use these for press, media cov
 ---
 
 ### ⚫ Full Logo (Black Flat)
-![SKOR AI Logo – Black Flat](./SKOR_Logo_Black_Flat.svg)
+![SKOR AI Logo – Black Flat](./SKOR_AI_AGENTS_LOG/SKOR_AI_AGENTS_LOGO/SKOR_AI_Agents_Logo_(Primary).png)
 
 ---
 
