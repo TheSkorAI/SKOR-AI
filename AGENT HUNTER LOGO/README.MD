@@ -5,11 +5,29 @@ This repository contains high-quality branding resources for use by partners, co
 
 ---
 
-## 🖼️ Logo Previews
+## 🖼️ Logo Previews & Downloads
 
-| Standard Logo | Vertical Logo |
-|:-------------:|:-------------:|
-| ![Hunter Logo](https://github.com/TheSkorAI/SKOR-AI/raw/main/AGENT%20HUNTER%20LOGO/Hunter%20Logo.png) | ![Vertical Logo](https://github.com/TheSkorAI/SKOR-AI/raw/main/AGENT%20HUNTER%20LOGO/Hunter%20-%20Vetical%20Logo.png) |
+### 🧭 Standard Logo
+
+<p align="center">
+  <img src="https://github.com/TheSkorAI/SKOR-AI/raw/main/AGENT%20HUNTER%20LOGO/Hunter%20Logo.png" alt="Hunter Logo" width="250" />
+  <br>
+  <a href="https://github.com/TheSkorAI/SKOR-AI/raw/main/AGENT%20HUNTER%20LOGO/Hunter%20Logo.png">
+    <img src="https://img.shields.io/badge/Download-Hunter%20Logo-blue?style=for-the-badge&logo=download" alt="Download Hunter Logo">
+  </a>
+</p>
+
+---
+
+### 🧭 Vertical Logo
+
+<p align="center">
+  <img src="https://github.com/TheSkorAI/SKOR-AI/raw/main/AGENT%20HUNTER%20LOGO/Hunter%20-%20Vetical%20Logo.png" alt="Hunter Vertical Logo" width="250" />
+  <br>
+  <a href="https://github.com/TheSkorAI/SKOR-AI/raw/main/AGENT%20HUNTER%20LOGO/Hunter%20-%20Vetical%20Logo.png">
+    <img src="https://img.shields.io/badge/Download-Vertical%20Logo-blue?style=for-the-badge&logo=download" alt="Download Vertical Logo">
+  </a>
+</p>
 
 ---
 
@@ -28,12 +46,12 @@ To maintain brand integrity and visual consistency, please follow these guidelin
 
 ## 📁 File Information
 
-| File Name | Description |
-|-----------|-------------|
-| `Hunter Logo.png` | Standard Agent Hunter logo |
-| `Hunter - Vertical Logo.png` | Stacked vertical logo version |
+| File Name                     | Description                  |
+|------------------------------|------------------------------|
+| `Hunter Logo.png`            | Standard Agent Hunter logo   |
+| `Hunter - Vertical Logo.png` | Stacked vertical version     |
 
-All files are provided in PNG format with transparent backgrounds, suitable for both print and digital use.
+All files are provided in **PNG** format with transparent backgrounds.
 
 ---
 
