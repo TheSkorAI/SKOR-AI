@@ -5,7 +5,7 @@ Below are the official logos for SKOR AI. You may use these for press, media cov
 ---
 
 ### 🔵 Full Logo (Color)
-![SKOR AI Full Logo – Color](./SKOR_Logo_Full_Color.png)
+![SKOR AI Full Logo – Color](./SKOR AI AGENTS LOGO/SKOR AI Agents Logo (Primary).png)
 
 ---
 
