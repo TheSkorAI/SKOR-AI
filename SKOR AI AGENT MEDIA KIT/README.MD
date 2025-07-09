@@ -1,59 +1,30 @@
-# SKOR AI Agent Media Kit
+# Official branding assets for SKOR AI and its agent identities
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TheSkorAI/SKOR-AI/main/SKOR%20AI%20AGENT%20MEDIA%20KIT/SKOR%20AI%20AGENT%20LOGO/preview.png" alt="SKOR AI Agent Preview" width="400"/>
-  <br>
-  <sub>Official branding assets for SKOR AI and its agent identities</sub>
+  <img src="https://camo.githubusercontent.com/5a7f85452cd8de4215272afa4d71a9cb26cba867e9ed0e5e6bfbb7d74eb22563/68747470733a2f2f6167656e742d707265636973696f6e2e676974626f6f6b2e696f2f736b6f722d61692f7e676974626f6f6b2f696d6167653f75726c3d6874747073253341253246253246333337363733383939352d66696c65732e676974626f6f6b2e696f25324625374525324666696c6573253246763025324662253246676974626f6f6b2d782d70726f642e61707073706f742e636f6d2532466f2532467370616365732532353246394f6847315767474d4e78665a396c4c67336351253235324675706c6f616473253235324643755357585a69424a525669614d6f4b6d47655025323532467075626c69632532353230253238312532392e6a7067253346616c742533446d65646961253236746f6b656e25334466363165643765382d363738342d346130312d383963372d3765643434356633343866322677696474683d373638266470723d31267175616c6974793d313030267369676e3d39346138383238362673763d32" alt="SKOR AI Agent Branding" width="400"/>
 </p>
 
 ---
 
-## 📦 Contents
-
-This media kit provides high-quality branding resources for use by partners, press, and collaborators:
-
-- [SKOR AI AGENT LOGO](./SKOR%20AI%20AGENT%20LOGO/)  
-  Official logo assets for SKOR AI Agent.
-- [AGENT HUNTER LOGO](./AGENT%20HUNTER%20LOGO/)  
-  Logos for the "Agent Hunter" identity.
-- [AGNET PRECISION LOGO](./AGNET%20PRECISION%20LOGO/)  
-  Logos for the "Agnet Precision" identity.
-
-Each folder contains logos and branding files in various formats (SVG, PNG, etc.), suitable for digital and print use.
+This directory contains the **official branding assets** for SKOR AI and its agent identities.  
+These resources are intended for partners, press, and collaborators to use in their communications and materials.
 
 ---
 
-## 👁️ Preview
+## 📁 Directory Contents
 
-![SKOR AI Agent Logo Preview](https://raw.githubusercontent.com/TheSkorAI/SKOR-AI/main/SKOR%20AI%20AGENT%20MEDIA%20KIT/SKOR%20AI%20AGENT%20LOGO/preview.png)
+- **AGENT HUNTER LOGO/**  
+  → Logo files for the "Agent Hunter" identity.
 
----
+- **AGNET PRECISION LOGO/**  
+  → Logo files for the "Agnet Precision" identity.
 
-## 🚩 Usage Guidelines
+- **SKOR AI AGENT LOGO/**  
+  → Main logo files for SKOR AI Agent.
 
-- Use the provided logos and assets without modification.  
-- Do not stretch, alter, or change the colors or aspect ratio.
-- Use only for SKOR AI-related content, press, or partnerships.
-- When referencing SKOR AI, always use the most current logos.
-- For questions or special requests, contact us at [media@skor.ai](mailto:media@skor.ai).
-
----
-
-## 📁 Directory Structure
-SKOR AI AGENT MEDIA KIT/ │ ├── AGENT HUNTER LOGO/ │ └── [Agent Hunter assets] │ ├── AGNET PRECISION LOGO/ │ └── [Agnet Precision assets] │ ├── SKOR AI AGENT LOGO/ │ ├── preview.png │ └── [SKOR AI Agent assets] │ └── README.MD
-
+- **README.MD**  
+  → This summary and directory listing.
 
 ---
 
-## 🤝 Contact & Attribution
-
-For official partnership or press requests, please reach out to:
-
-- Email: [media@skor.ai](mailto:media@skor.ai)
-- Website: [https://skor.ai](https://skor.ai)
-
-Please credit SKOR AI when using these materials in public or published works.
-
----
-
-Thank you for supporting SKOR AI!
+Each folder contains relevant branding files for use in both digital and print media.
