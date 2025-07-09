@@ -10,7 +10,7 @@ Below are the official logos for SKOR AI. You may use these for press, media cov
 ---
 
 ### ⚪ Full Logo (White Transparent)
-![SKOR AI Logo – White Transparent](./SKOR_Logo_White_Transparent.png)
+![SKOR AI Logo – White Transparent](./SKORAIAGENTSLOGO/SKORAIAGENTSLOGO/SKORAIAgentsLogo(Primary).png)
 
 ---
 
