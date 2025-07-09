@@ -18,9 +18,13 @@ This folder includes:
 
 ## 🖼️ Logo Previews
 
+<div align="center">
+
 | Vertical Logo | Standard Logo |
 |:-------------:|:-------------:|
-| <img src="./Precision%20-%20Vertical%20Logo.png" alt="Vertical Logo" width="280"><br><a href="./Precision%20-%20Vertical%20Logo.png"><img src="https://img.shields.io/badge/Download-Vertical%20Logo-007BFF?style=for-the-badge&logo=download" alt="Download Vertical Logo"></a> | <img src="./Precision%20Logo.png" alt="Standard Logo" width="280"><br><a href="./Precision%20Logo.png"><img src="https://img.shields.io/badge/Download-Standard%20Logo-007BFF?style=for-the-badge&logo=download" alt="Download Standard Logo"></a> |
+| <img src="https://github.com/TheSkorAI/SKOR-AI/blob/main/SKOR%20AI%20AGENT%20MEDIA%20KIT/AGNET%20PRECISION%20LOGO/Precision%20-%20Vetical%20Logo.png?raw=true" alt="Vertical Logo" width="320"><br><a href="https://github.com/TheSkorAI/SKOR-AI/blob/main/SKOR%20AI%20AGENT%20MEDIA%20KIT/AGNET%20PRECISION%20LOGO/Precision%20-%20Vetical%20Logo.png?raw=true"><img src="https://img.shields.io/badge/Download-Vertical%20Logo-007BFF?style=for-the-badge&logo=download" alt="Download Vertical Logo"></a> | <img src="./Precision%20Logo.png" alt="Standard Logo" width="320"><br><a href="./Precision%20Logo.png"><img src="https://img.shields.io/badge/Download-Standard%20Logo-007BFF?style=for-the-badge&logo=download" alt="Download Standard Logo"></a> |
+
+</div>
 
 ---
 
