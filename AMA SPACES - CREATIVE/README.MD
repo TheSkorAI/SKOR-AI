@@ -1,4 +1,3 @@
-
 # 🎙️ AMA SPACES — Creative Assets
 
 Welcome to the **AMA SPACES – CREATIVE** directory of the [SKOR AI Repository](https://github.com/TheSkorAI/SKOR-AI).  
@@ -36,16 +35,10 @@ We reward community engagement with a **$50 giveaway in every AMA session**:
   </tr>
   <tr>
     <td align="center">
-      <img src="./AMA%20SPACE%20-%20CREATIVE.jpeg" alt="AMA Space Creative 1" width="360"/><br><br>
-      <a href="./AMA%20SPACE%20-%20CREATIVE.jpeg">
-        <img src="https://img.shields.io/badge/Download-Creative%201-007BFF?style=for-the-badge&logo=download" alt="Download Creative 1"/>
-      </a>
+      <img src="./AMA%20SPACE%20-%20CREATIVE.jpeg" alt="AMA Space Creative 1" width="400"/>
     </td>
     <td align="center">
-      <img src="./AMA%20SPACE%20-%20CREATIVE%20-%201%20.jpeg" alt="AMA Space Creative 2" width="360"/><br><br>
-      <a href="./AMA%20SPACE%20-%20CREATIVE%20-%201%20.jpeg">
-        <img src="https://img.shields.io/badge/Download-Creative%202-007BFF?style=for-the-badge&logo=download" alt="Download Creative 2"/>
-      </a>
+      <img src="./AMA%20SPACE%20-%20CREATIVE%20-%201%20.jpeg" alt="AMA Space Creative 2" width="400"/>
     </td>
   </tr>
 </table>
@@ -56,10 +49,14 @@ We reward community engagement with a **$50 giveaway in every AMA session**:
 
 ## 📂 Folder Contents
 
+<div align="center">
+
 | File Name                         | Description                              |
 |----------------------------------|------------------------------------------|
 | `AMA SPACE - CREATIVE.jpeg`      | Official AMA announcement creative       |
 | `AMA SPACE - CREATIVE - 1 .jpeg` | Alternate/post variation for promotion   |
+
+</div>
 
 ---
 
