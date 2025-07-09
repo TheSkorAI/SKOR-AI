@@ -1,62 +1,57 @@
 # 🤝 SKOR AI — Collaboration Templates & Creatives
 
 Welcome to the **Collaboration Templates and Creatives** directory of the [SKOR AI GitHub Repository](https://github.com/TheSkorAI/SKOR-AI).  
-This folder is dedicated to showcasing the visual assets and structured templates we use for strategic brand partnerships, marketing initiatives, and public announcements.
+This folder showcases the design assets and structured templates used for SKOR AI’s brand partnerships, marketing initiatives, and public announcements.
 
 ---
 
 ## 📌 Overview
 
-At **SKOR AI**, collaboration is at the heart of innovation. To ensure brand consistency and visual excellence across all touchpoints, we maintain a standardized approach to our co-branded announcements.
+At **SKOR AI**, we believe collaboration is key to scaling innovation. To maintain visual consistency and brand identity, we use standardized templates and creative formats for our partner communications.
 
-This directory includes:
-- ✍️ **Official templates** for partnership announcement designs  
-- 🎨 **Final creatives** used in real-world collaborations across social platforms  
-- 📢 Creatives that have been posted on our official [X (Twitter) handle](https://x.com/theskorai)
+This folder includes:
+- ✍️ **Official templates** used to announce collaborations  
+- 🎨 **Final creatives** shared across social platforms  
+- 📢 Real-world examples from our [X (Twitter) profile](https://x.com/theskorai)
 
-These assets serve as reference for internal teams, collaborators, and external partners working on joint campaigns with SKOR AI.
+These resources are useful for SKOR AI team members, partners, and designers collaborating with us on co-branded content.
 
 ---
 
 ## 📂 Included Files & Previews
 
-<div align="center">
-  <img src="./Collaboration%20Announcement%20Template.png" alt="Template" width="45%" style="margin-right: 10px;">
-  <img src="./Collaboration%20Announcement%20-%20Creative.png" alt="Creative" width="45%">
-</div>
-
-<div align="center"><b>⬅️ Template | Final Creative ➡️</b></div>
-
-- **Left**: Official collaboration announcement template (`Collaboration Announcement Template.png`)  
-- **Right**: Final creative example used in live campaigns (`Collaboration Announcement - Creative.png`)
+| Official Template | Final Creative Example |
+|-------------------|-------------------------|
+| <img src="https://github.com/TheSkorAI/SKOR-AI/blob/main/COLLAB%20AND%20PARTNERSHIP/COLLABORATION%20TEEMPLATE%20AND%20CREATIVES/Collaboration%20Announcement%20%20Template.png?raw=true" alt="Collaboration Template" width="100%"> | <img src="./Collaboration%20Announcement%20-%20Creative.png" alt="Collaboration Creative" width="100%"> |
+| `Collaboration Announcement Template.png` | `Collaboration Announcement - Creative.png` |
 
 ---
 
 ## 📣 See Our Live Collaborations
 
-You can also explore real examples of collaboration announcements shared on our official X (Twitter) account:
+You can also view a few of our live collaboration announcements posted on X:
 
 - 🔗 [Collaboration Post 1]()  
 - 🔗 [Collaboration Post 2]()  
 - 🔗 [Collaboration Post 3]()  
 
-> *(Replace the empty parentheses with actual X post URLs once available.)*
+> *(Add the URLs to your X posts above once available.)*
 
 ---
 
 ## 📎 Usage Guidelines
 
-- Please do **not modify** logo placement, fonts, or color themes without prior approval.
-- Use the official template to ensure visual consistency across all public-facing announcements.
-- Final creatives should reflect both SKOR AI and the collaborator’s identity in a cohesive design.
+- Do **not** modify the template layout, fonts, or color palette without approval.
+- Use the provided template as a base for designing all SKOR AI collaboration announcements.
+- Reference the final creative for visual tone, balance, and formatting.
 
-For editable files (.PSD, .AI), please reach out to our team directly.
+For editable design files (.PSD, .AI), please contact us directly.
 
 ---
 
 ## 📬 Get in Touch
 
-For partnership proposals, design requests, or asset access:
+For partnership inquiries or creative requests:
 
 🌐 Website: [https://skorai.xyz](https://skorai.xyz)  
 📧 Email: partnerships@skorai.xyz  
